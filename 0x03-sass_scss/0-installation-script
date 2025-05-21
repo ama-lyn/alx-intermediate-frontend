@@ -1,0 +1,8 @@
+# Steps to install SASS
+
+ 1. Open your terminal or command prompt.
+ 2. Navigate to your project directory.
+ 3. Run the following command to install SASS version 3.7.4 as dependency:
+    `npm install sass -v 3.7.4`
+4. Wait for the installation to complete. SASS will now be available in your project's node_modules.
+ 
